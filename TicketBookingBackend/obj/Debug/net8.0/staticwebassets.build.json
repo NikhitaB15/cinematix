@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "i6A+vChh7pUjI5ifuVyjC+QMXXDpWNd9h0fFvhY+izU=",
+  "Source": "TicketBookingBackend",
+  "BasePath": "_content/TicketBookingBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

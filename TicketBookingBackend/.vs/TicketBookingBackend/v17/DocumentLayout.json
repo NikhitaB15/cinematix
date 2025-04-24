@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\migrations\\ticketbookingdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:migrations\\ticketbookingdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\ticketbookingbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:ticketbookingbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\usersettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\usersettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\models\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:models\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|c:\\users\\nikhitabhattacharya\\onedrive - gyansys inc\\desktop\\react_projects\\cinematix\\ticketbookingbackend\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C3BC0-B3AA-4F3B-A819-EFA84A4072A1}|TicketBookingBackend.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketBookingDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Migrations\\TicketBookingDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\TicketBookingDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Migrations\\TicketBookingDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\TicketBookingDatabaseContextModelSnapshot.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:00:42.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:56:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T13:18:02.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketBookingBackend",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\TicketBookingBackend.csproj",
+              "RelativeDocumentMoniker": "TicketBookingBackend.csproj",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\TicketBookingBackend.csproj",
+              "RelativeToolTip": "TicketBookingBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T13:17:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:36:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:36:02.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:24:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAcwLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:18:15.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\UserSettingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserSettingsController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\UserSettingsController.cs",
+              "RelativeToolTip": "Controllers\\UserSettingsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:06:18.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeatController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\SeatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeatController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\SeatController.cs",
+              "RelativeToolTip": "Controllers\\SeatController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswGUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:13:41.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:39:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowsController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\ShowsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShowsController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\ShowsController.cs",
+              "RelativeToolTip": "Controllers\\ShowsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:27:35.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T05:13:51.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\UserSettings.cs",
+              "RelativeDocumentMoniker": "Models\\UserSettings.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\UserSettings.cs",
+              "RelativeToolTip": "Models\\UserSettings.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:59:03.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwE0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:17:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:39:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:40:51.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Show.cs",
+              "RelativeDocumentMoniker": "Models\\Show.cs",
+              "ToolTip": "C:\\Users\\NikhitaBhattacharya\\OneDrive - GyanSys Inc\\Desktop\\React_projects\\cinematix\\TicketBookingBackend\\Models\\Show.cs",
+              "RelativeToolTip": "Models\\Show.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:33:32.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
